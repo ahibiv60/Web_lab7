@@ -12,6 +12,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -19,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab7 Danya" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,6 +87,13 @@
       <workItem from="1571741981799" duration="179000" />
       <workItem from="1571742193170" duration="5913000" />
       <workItem from="1571748197709" duration="3135000" />
+      <workItem from="1571828920110" duration="1310000" />
+      <workItem from="1571830289006" duration="120000" />
+      <workItem from="1571830494167" duration="2598000" />
+      <workItem from="1571909149992" duration="2096000" />
+      <workItem from="1571911423823" duration="520000" />
+      <workItem from="1572373187213" duration="16000" />
+      <workItem from="1572374649709" duration="5995000" />
     </task>
     <servers />
   </component>
